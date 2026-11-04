@@ -73,7 +73,7 @@ The data-quality checks find exactly the defects injected by the generator. The 
 ### Installation
 
 ```bash
-git clone https://github.com/whynotyuno/<repository-name>.git
+git clone https://github.com/whynotyuno/product-analytics-sql.git
 cd product-analytics-sql
 ```
 
